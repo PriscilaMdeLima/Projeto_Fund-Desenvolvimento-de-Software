@@ -4,6 +4,8 @@ Cesar School - Prof. Luis Rodolfo Celestino - ADS, turma regular.
 
 Grupo: João Lira, Thaissa Fernandes, Priscila Maciel de Lima, Pedro Falcao, Mariana Ferreira.
 
+ODS 11 - CIDADES E COMUNIDADES SUSTENTAVÉIS
+
 Produto:
 
 Nosso produto é um sistema para conectar cooperativas e catadores de recicláveis de Recife a pessoas que possuam esse tipo de material para descarte.
