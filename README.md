@@ -1,6 +1,6 @@
 ## Projeto em grupo para cadeira de Fundamentos e Desenvolvimento de Software 2
 
-Cesar School - Prof. Luis Rodolfo Celestino - ADS, turma regular.
+Cesar School - Prof. Lucas Rodolfo Celestino - ADS, turma regular.
 
 Grupo: João Lira, Thaissa Fernandes, Priscila Maciel de Lima, Pedro Falcao, Mariana Ferreira.
 
