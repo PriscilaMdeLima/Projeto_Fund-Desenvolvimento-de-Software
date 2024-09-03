@@ -1,18 +1,19 @@
-## Projeto em grupo para cadeira de Fundamentos e Desenvolvimento de Software 2
+**CESAR School - Professor Lucas Rodolfo Celestino de Farias - ADS, Turma Regular**
 
-Cesar School - Prof. Lucas Rodolfo Celestino - ADS, turma regular.
+**Grupo:** João Lira, Thaissa Fernandes, Priscila Maciel de Lima, Pedro Falcão, Mariana Ferreira.
 
-Grupo: João Lira, Thaissa Fernandes, Priscila Maciel de Lima, Pedro Falcao, Mariana Ferreira.
+**ODS 11 - Cidades e Comunidades Sustentáveis**
 
-ODS 11 - CIDADES E COMUNIDADES SUSTENTAVÉIS
+**Produto:**
+Nosso projeto tem como foco o desenvolvimento de um sistema inovador que visa conectar cooperativas e catadores de recicláveis em Recife com indivíduos que possuam materiais recicláveis para descarte. A iniciativa busca facilitar o acesso das cooperativas e dos catadores a esses materiais, otimizando a coleta e promovendo um impacto positivo no meio ambiente. 
 
-Produto:
+Através dessa plataforma, os recicláveis terão uma destinação correta, evitando que acabem sendo descartados de forma inadequada em rios, córregos, terrenos baldios ou aterros sanitários. Assim, o projeto contribui diretamente para a preservação ambiental e a sustentabilidade urbana, alinhando-se com os objetivos do ODS 11, que preconiza a criação de cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis.
 
-Nosso produto é um sistema para conectar cooperativas e catadores de recicláveis de Recife a pessoas que possuam esse tipo de material para descarte.
-Ajudando assim as cooperativas e os catadores a chegar mais facilmente ao material e ao meio ambiente, pois com a destinação correta dos recicláveis esse material não irá parar nos rios, corregos, terrenos
-baldios ou aterros. 
+Além de promover o desenvolvimento econômico das cooperativas e catadores, o sistema também incentiva uma maior consciência ambiental nas comunidades, fomentando a participação ativa dos cidadãos no processo de reciclagem. Dessa forma, buscamos criar uma rede colaborativa em que todos saem ganhando: o meio ambiente, os profissionais da reciclagem e a sociedade como um todo.
 
-Link Jira:
+Essa plataforma, ao ser implementada, também pode servir de modelo para outras cidades que enfrentam desafios semelhantes, consolidando-se como uma solução replicável e escalável para o problema do descarte inadequado de resíduos recicláveis.
+
+Print Jira:
 ![Jira da Reciclo](https://github.com/user-attachments/assets/f268839c-6533-4440-874e-7eeabf35e0f3)
 
 Historias de Usuários:
