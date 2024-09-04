@@ -13,8 +13,11 @@ Além de promover o desenvolvimento econômico das cooperativas e catadores, o s
 
 Essa plataforma, ao ser implementada, também pode servir de modelo para outras cidades que enfrentam desafios semelhantes, consolidando-se como uma solução replicável e escalável para o problema do descarte inadequado de resíduos recicláveis.
 
-Print Jira:
-![Jira da Reciclo](https://github.com/user-attachments/assets/f268839c-6533-4440-874e-7eeabf35e0f3)
+Print tela Jira:
+![Captura de tela JIRA](https://github.com/user-attachments/assets/022c2dba-373e-4cad-b4fc-a3afb769a263)
+
+Link Jira:
+https://cesar-team-xopktp3k.atlassian.net/jira/software/projects/KAN/boards/1
 
 Historias de Usuários:
 
