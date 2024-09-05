@@ -19,6 +19,10 @@ Print tela Jira:
 Link Jira:
 https://cesar-team-xopktp3k.atlassian.net/jira/software/projects/KAN/boards/1
 
+SKETCHES:
+[sketch.docx](https://github.com/user-attachments/files/16894170/sketch.docx)
+
+
 Historias de Usuários:
 
 [HISTÓRIA DE USUÁRIO.docx](https://github.com/user-attachments/files/16852381/HISTORIA.DE.USUARIO.docx)
