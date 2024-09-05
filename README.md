@@ -27,8 +27,7 @@ Historias de Usuários:
 
 [HISTÓRIA DE USUÁRIO.docx](https://github.com/user-attachments/files/16852381/HISTORIA.DE.USUARIO.docx)
 
-STORYBOARDS:
+SCREENCAST:
 https://github.com/user-attachments/assets/2bf7ce15-1196-4674-bcae-f03d7bdc3af8
 
-link Figma:
-https://www.figma.com/proto/fDBs39H9I0nMnU89VjDH8O/Recicla?node-id=121-154&node-type=CANVAS&t=7QDVmEwqBvDvABO9-1&scaling=scale-down&content-scaling=fixed&page-id=122%3A98
+
