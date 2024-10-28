@@ -1,42 +1,56 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import './Login.css';
 
 function Login() {
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const navigate = useNavigate();
+
+  const handleLogin = (e) => {
+    e.preventDefault();
+
+    let isAuthenticated = false;
+
+    if (email === 'user@gmail' && password === 'password') {
+      isAuthenticated = true;
+    }
+
+    if (isAuthenticated) {
+      navigate('/dashboard');
+    } else {
+      alert('Login falhou');
+    }
+  }
+
+  const handleSignupClick = () => {
+    navigate('/signup');
+  };
+
   return (
     <div className="login-container">
-      <div className="login-header">
-        <h1>Reciclo</h1>
-      </div>
+      <h2>Login</h2>
+      <form className="login-form" onSubmit={handleLogin}>
+        <label>E-mail</label>
+        <input
+          type="email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          required
+          placeholder="E-mail"
+        />
 
-      <form className="login-form">
-        <label htmlFor="email">E-mail</label>
-        <div className="input-group">
-          <span className="icon">📧</span>
-          <input type="email" id="email" placeholder="e-mail" />
-        </div>
+        <label>Senha</label>
+        <input
+          type="password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+          required
+          placeholder="Senha"
+        />
 
-        <label htmlFor="password">Senha</label>
-        <div className="input-group">
-          <span className="icon">🔒</span>
-          <input type="password" id="password" placeholder="senha" />
-        </div>
-
-        <button type="submit" className="login-button">login</button>
-
-        <div className="forgot-password">
-          <a href="#">esqueceu a senha</a>
-        </div>
-
-        <div className="divider">
-          <span>ou</span>
-        </div>
-
-        <div className="social-login">
-          <button className="social-button google">G</button>
-          <button className="social-button apple"></button>
-        </div>
-
-        <button className="create-account-button">crie sua conta</button>
+        <button type="submit" className="login-button">Entrar</button>
+        <button type="button" onClick={handleSignupClick} className="signup-button">Criar conta</button>
       </form>
     </div>
   );

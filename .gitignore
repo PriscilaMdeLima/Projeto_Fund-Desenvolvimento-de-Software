@@ -2,6 +2,7 @@
 
 # dependencies
 /reciclo-view/node_modules/
+/reciclo-view/package-lock.json
 /.pnp
 .pnp.js
 
