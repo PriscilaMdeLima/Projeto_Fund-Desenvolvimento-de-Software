@@ -1,0 +1,134 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #A3D997;
+    padding: 20px;
+    border-radius: 50px;
+    width: 90%;
+    max-width: 400px;
+    margin: 50px auto;
+  }
+
+  .color {
+    background-color: #A3D997;
+  }
+
+  .login-header {
+    text-align: center;
+  }
+
+  .login-header h1 {
+    font-size: 2.5rem;
+    color: #4B6043;
+  }
+
+  .logo img {
+    width: 100px;
+    height: auto;
+    margin-top: 10px;
+  }
+
+  .login-form {
+    width: 100%;
+  }
+
+  .input-group {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+  }
+
+  .input-group .icon {
+    margin-right: 8px;
+  }
+
+  .input-group input {
+    border: none;
+    outline: none;
+    width: 100%;
+  }
+
+  .login-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #6CB76A;
+    color: white;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    margin: 10px 0;
+    cursor: pointer;
+  }
+
+  .forgot-password {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .forgot-password a {
+    color: #333;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+
+  .divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  .divider::before, .divider::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .divider span {
+    margin: 0 10px;
+    font-size: 0.9rem;
+  }
+
+  .social-login {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+  }
+
+  .social-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48%;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    color: white;
+    cursor: pointer;
+    border: none;
+  }
+
+  .social-button.google {
+    background-color: #4285F4;
+  }
+
+  .social-button.apple {
+    background-color: #000;
+  }
+
+  .create-account-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #6CB76A;
+    color: white;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
