@@ -35,6 +35,12 @@ DIAGRAMA DE ATIVIDADE DO SISTEMA:
 
 ![image](https://github.com/user-attachments/assets/7bb33463-f4c9-412f-9de9-f744b6797483)
 
+COLABORAÇÕES:
 
+João Lira: Sketches e Diagrama de Atividades
+Mariana Ferreira: Frontend
+Pedro Falcão: Backend e Historias de Usuários
+Priscila Maciel: Historias de Usuários, Jira,  Github e Diagrama de Atividades
+Thaissa Fernandes: Diagrama de Atividades e Figma(prototipação).
 
 
